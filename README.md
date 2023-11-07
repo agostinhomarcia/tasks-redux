@@ -9,17 +9,17 @@
 <h1 align="center"></h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/my-feedback?color=FF0000">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/tasks-redux?color=FF0000">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/my-feedback?color=FF0000">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/tasks-redux?color=FF0000">
 
-  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/my-feedback?color=FF0000">
+  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/tasks-redux?color=FF0000">
 
-   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/my-feedback?color=FF0000" />
+   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/tasks-redux?color=FF0000" />
 
-   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/my-feedback?color=FF0000" />
+   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/tasks-redux?color=FF0000" />
 
-   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/my-feedback?color=FF0000" /> 
+   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/tasks-redux?color=FF0000" /> 
 </p>
 
 <p align="center">
@@ -37,14 +37,16 @@
 
 ## :dart: About
 
-<h4 align="center"> Cadastro Feedback </h4>
+<h4 align="center"> To-do-List with Redux </h4>
 
 <p align="center">
-   <img src="/public/task.gif" alt="feedback" width="690"/>
+   <img src="/public/task.gif" alt="tasks" width="690"/>
 </p>
 <br/>
 <p align="left">
-   This project is a to-do list (or "To-Do List") application developed using React and Redux, with the help of the "@reduxjs/toolkit" library to simplify Redux configuration
+   This project is a to-do list (or "To-Do List") application developed using React and Redux, with the help of the "@reduxjs/toolkit" library to simplify Redux configuration.
+   <br/>
+   A to-do list app that gives users the ability to manage their tasks efficiently. It incorporates several essential features to make organizing tasks a simplified task.
 </p>
 
 <hr/>
@@ -72,9 +74,9 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/agostinhomarcia/my-feedback.git
+$ git clone https://github.com/agostinhomarcia/tasks-redux.git
 # Access
-$ cd my-feedback
+$ cd tasks-redux
 # Install dependencies
 $ yarn or npm
 # Run the project
